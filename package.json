@@ -1,6 +1,6 @@
 {
   "name": "rexmon-slave",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Incredibly lightweight server monitoring using Node.js. You're welcome.",
   "main": "rexmon.slave.js",
   "scripts": {
@@ -20,12 +20,12 @@
   "license": "BSD",
   "readmeFilename": "README.md",
   "gitHead": "48dc6bd49a5db3c54c40724f8fe2469ae8281f87",
-  "dependencies" : {
-    "async" : "*",
-    "supercli" : "*",
-    "optimist" : "*",
-    "underscore" : "*",
-    "backbone" : "*",
-    "node-watch" : "*"
+  "dependencies": {
+    "async": "*",
+    "supercli": "*",
+    "optimist": "*",
+    "underscore": "*",
+    "backbone": "*",
+    "node-watch": "*"
   }
 }
