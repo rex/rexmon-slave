@@ -1,0 +1,23 @@
+{
+  "name": "rexmon-slave",
+  "version": "0.0.1",
+  "description": "Incredibly lightweight server monitoring using Node.js. You're welcome.",
+  "main": "rexmon.slave.js",
+  "scripts": {
+    "test": "''"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/piercemoore/rexmon-slave.git"
+  },
+  "keywords": [
+    "server",
+    "monitor",
+    "watch",
+    "admin"
+  ],
+  "author": "Pierce Moore <Pierce@PierceMoore.com>",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "48dc6bd49a5db3c54c40724f8fe2469ae8281f87"
+}
