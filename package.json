@@ -19,5 +19,13 @@
   "author": "Pierce Moore <Pierce@PierceMoore.com>",
   "license": "BSD",
   "readmeFilename": "README.md",
-  "gitHead": "48dc6bd49a5db3c54c40724f8fe2469ae8281f87"
+  "gitHead": "48dc6bd49a5db3c54c40724f8fe2469ae8281f87",
+  "dependencies" : {
+    "async" : "*",
+    "supercli" : "*",
+    "optimist" : "*",
+    "underscore" : "*",
+    "backbone" : "*",
+    "node-watch" : "*"
+  }
 }
